@@ -13,13 +13,13 @@
 ### 🚀 What I'm Currently Building
 
 **Body Control System @ UING** *(July - December 2025)*  
-Developing interactive 3D virtual environments using Three.js and WebGL for a gesture-controlled navigation prototype. The system enables natural body movement interaction without VR hardware—designed for defense training, rehabilitation therapy, and digital twin applications.
+Developing procedural terrain generation system using real-world geospatial data (heightmaps, vegetation) to create interactive 3D simulations of actual geographic locations. Integrated Rapier physics engine with Three.js for realistic terrain interactions, optimized to 55fps while processing gesture control input.
 
-**My Focus:**
-- Architecting immersive 3D scenes optimized for large-format LED displays
-- Performance optimization to maintain 60fps with complex 3D environments
-- Integrating Three.js frontend with Laravel backend via REST APIs
-- Designing intuitive spatial interactions for gesture-based control
+**Technical Focus:**
+- Procedural world generation from heightmap and vegetation data
+- Real-time terrain customization and editing systems
+- Physics integration using Rapier engine
+- Performance optimization for complex terrain rendering
 
 ---
 
