@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Tuan Vo 👋
 
-<!--
-**Kirito1432/Kirito1432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Developer | IT Graduate | Three.js Enthusiast
 
-Here are some ideas to get you started:
+🎓 Final-year Bachelor of Information Technology student at Flinders University  
+💼 Currently building Body Control System with 3D environments at UING  
+🔒 CCNA CyberOps Associate certified  
+📍 Adelaide, South Australia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+- Building an interactive Body Control System using Three.js and pose detection
+- Exploring real-time 3D graphics and computer vision applications
+- Developing full-stack web applications with modern JavaScript
+
+### Technical Skills
+**Languages:** JavaScript, Python, Java, PHP  
+**Web Technologies:** Three.js, HTML5, CSS3, Node.js  
+**Machine Learning:** scikit-learn, TensorFlow, pandas  
+**Databases:** MySQL, SQLite, MongoDB  
+**Tools:** Git, VS Code, XAMPP
+
+### Connect With Me
+- Email: vo0107@flinders.edu.au
+- Location: Adelaide, SA, Australia
+
+### Currently Learning
+WebGL optimization, advanced Three.js techniques, cloud deployment (AWS/GCP)
+
