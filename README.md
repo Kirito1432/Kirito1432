@@ -1,6 +1,6 @@
 # Hi, I'm Tuan Vo 👋
 
-## 3D Web Developer | Full-Stack Engineer | Final-Year IT Student
+## 3D Web Dev Intern | Final-Year IT Student
 
 🎓 Bachelor of Information Technology @ Flinders University (Graduating Dec 2025)  
 💼 3D Environment Developer @ UING | Building gesture-controlled interactive systems  
