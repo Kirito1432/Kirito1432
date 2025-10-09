@@ -38,10 +38,7 @@ Laravel • REST APIs • Node.js • MySQL • Responsive Design
 scikit-learn • TensorFlow • pandas • Matplotlib • Seaborn
 
 **Tools & Platforms**  
-Git/GitHub • VS Code • Chrome DevTools • XAMPP • Composer • npm
-
-**Cloud & Security**  
-AWS (Basic) • GCP (Basic) • Network Security • CCNA CyberOps
+Git/GitHub • VS Code • Chrome DevTools
 
 ---
 
