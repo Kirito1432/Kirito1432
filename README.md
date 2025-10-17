@@ -1,6 +1,6 @@
 # Hi, I'm Tuan Vo 👋
 
-## 3D Web Dev Intern | Final-Year IT Student
+## Web Dev Intern | Final-Year IT Student
 
 Bachelor of Information Technology @ Flinders University (Graduating Dec 2025)  
 Adelaide, South Australia
@@ -26,7 +26,7 @@ Developing procedural terrain generation system using real-world geospatial data
 Three.js • WebGL • 3D Scene Optimization • Interactive Environments • Camera Systems
 
 **Programming Languages**  
-JavaScript (ES6+) • PHP • Python • Java • HTML5 • CSS3
+JavaScript (ES8+) • PHP • Python • Java • HTML5 • CSS3
 
 **Web Development**  
 Laravel • REST APIs • Node.js • MySQL • Responsive Design
@@ -42,7 +42,6 @@ Git/GitHub • VS Code • Chrome DevTools
 ### Currently Learning
 
 - Advanced WebGL shaders and rendering techniques
-- Real-time data visualization and digital twin development
 - Performance profiling and optimization for 3D web applications
 - React
 
