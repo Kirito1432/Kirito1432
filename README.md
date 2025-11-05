@@ -29,10 +29,10 @@ Three.js • WebGL • 3D Scene Optimization • Interactive Environments • Ca
 JavaScript (ES8+) • PHP • Python • Java • HTML5 • CSS3
 
 **Web Development**  
-Laravel • REST APIs • Node.js • MySQL • Responsive Design
+Laravel • Node.js • MySQL • Responsive Design • PostgreSQL
 
 **Machine Learning & Data**  
-scikit-learn • TensorFlow • pandas • Matplotlib • Seaborn
+scikit-learn • pandas • Matplotlib • Seaborn
 
 **Tools & Platforms**  
 Git/GitHub • VS Code • Chrome DevTools
@@ -40,10 +40,9 @@ Git/GitHub • VS Code • Chrome DevTools
 ---
 
 ### Currently Learning
-
-- Advanced WebGL shaders and rendering techniques
-- Performance profiling and optimization for 3D web applications
 - React
+- Neural Network
+- Basic web application architecture
 
 ---
 
