@@ -12,7 +12,7 @@ Adelaide, South Australia
 Develop a full stack web application that integrate AI implementation with the goal to replace traditional or static pdf textbook with more interactive leanring content for student.
 
 
-###What I have built
+###What I have built###
 **Body Control System @ UING** *(July - December 2025)*  
 Developing procedural terrain generation system using real-world geospatial data (heightmaps, vegetation) to create interactive 3D simulations of actual geographic locations. Integrated Rapier physics engine with Three.js for realistic terrain interactions, optimized to 55fps while processing gesture control input.
 
